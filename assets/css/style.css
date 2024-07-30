@@ -65,44 +65,24 @@ body {
 }
 
 /* header end */
-.feature-2-image {
-  width: 100%;
-  max-width: 676px;
-  /* height: 16/9; */
-  height: 553px;
-  object-fit: cover;
-}
+
 /* media query start */
-/* @media screen and (min-width: 1200px) and (max-width: 1399.98px) {}
+@media screen and (min-width: 1200px) and (max-width: 1399.98px) {
+}
 
 @media screen and (min-width: 992px) and (max-width: 1199.98px) {
-  .feature-2-image {
-    height: 450px;
-}
 }
 
 @media screen and (min-width: 768px) and (max-width: 991.98px) {
-  .feature-2-image {
-    height: 250px;
-}
 }
 
 @media screen and (min-width: 576px) and (max-width: 767.98px) {
-  .feature-2-image {
-    height: 300px;
-  }
 }
 
 @media screen and (min-width: 376px) and (max-width: 575.98px) {
-  .feature-2-image {
-    height: 280px;
-  }
 }
 
 @media screen and (min-width: 0px) and (max-width: 375.98px) {
-  .feature-2-image {
-    height: 250px;
-  }
-} */
+}
 
 /* mdeia query end */
